@@ -21,8 +21,8 @@ Weather forecasts (in portuguese) provided by [IPMA](https://ipma.pt)
 
 Author: Tiago Epifânio
 
-Based on the code written by Pradeep Singh
-Pradeep's blog: https://iotbytes.wordpress.com/play-audio-file-on-phone-line-with-raspberry-pi/
-Pradeep's github repo: https://github.com/pradeesi/play_audio_over_phone_line
+Based on the code written by Pradeep Singh:
+- Pradeep's blog: https://iotbytes.wordpress.com/play-audio-file-on-phone-line-with-raspberry-pi/
+- Pradeep's github repo: https://github.com/pradeesi/play_audio_over_phone_line
 
 Thanks, Pradeep. Without your code this would have been much harder.
